@@ -1,0 +1,15 @@
+{
+  "name": "app_node_get_property",
+  "version": "1.0.0",
+  "description": "Node app to get property information by id",
+  "main": "script.js",
+  "type": "module",
+  "author": {
+    "name": "Carlos Camacho",
+    "email": "carloscgo123@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
